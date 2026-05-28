@@ -134,7 +134,7 @@ Many people express their true emotional state more honestly in text — journal
 ![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### AI Chatbot
 ![Chatbot](screenshots/chatbot.png)
