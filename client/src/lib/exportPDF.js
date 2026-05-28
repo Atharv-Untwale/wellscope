@@ -85,5 +85,5 @@ export async function exportPDF(entries, stats) {
     y += 33;
   }
 
-  doc.save("moodguard-report.pdf");
+  doc.save("wellscope-report.pdf");
 }
